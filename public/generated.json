@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "name": "Rocky Samson",
+    "image": "https://i.ibb.co/ZWXKsh8/trainer-2-male.png"
+  },{
+    "id": "2",
+    "name": "Jenifer Brew",
+    "image": "https://i.ibb.co/gwFbKxQ/trainer-1-female.png"
+  },{
+    "id": "3",
+    "name": "David Mils",
+    "image": "https://i.ibb.co/mrKZvg1/trainer-3-male.png"
+  },
+  {
+    "id": "4",
+    "name": "Amber Depp",
+    "image": "https://i.ibb.co/t8zxwy2/trainer-5-female.png"
+  },
+  {
+    "id": "5",
+    "name": "Micheal Roulf",
+    "image": "https://i.ibb.co/qy0q24q/trainer-4-male.png"
+  },
+  {
+    "id": "6",
+    "name": "Jonas Muller",
+    "image": "https://i.ibb.co/4fdmRTN/trainer-6-male.png"
+  }
+]

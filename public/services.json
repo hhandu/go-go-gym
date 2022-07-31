@@ -1,0 +1,45 @@
+[
+  {
+    "id": "1",
+    "name": "ATHLETIC FIGURE",
+    "price": "200",
+    "image": "https://i.ibb.co/Sv739YL/Athletbody-1.png",
+    "description": "If your busy professional life pushed your physical fitness to the backseat, there is a solution. The Fittness World  online plans will help you achieve your desired body image in no time."
+
+  },
+  {
+    "id": "2",
+    "name": "CONFIDENCE BOOST",
+    "price": "200",
+    "image": "https://i.ibb.co/LNF6Bvp/confidencebooast.png",
+    "description": "My job is not only focus on the image in the mirror, but also how you feel in your skin. Achieving milestones with your body will transfer into your daily life as increased confidence."
+  },
+  {
+    "id": "3",
+    "name": "QUALITY OF LIFE",
+    "price": "200",
+    "image": "https://i.ibb.co/tp2Ty2s/male-feet-sneakers-running-treadmill-gym-exercise-concept-335224-799.png",
+    "description": "The ultimate goal is for you to enjoy your life to the fullest, engage in social situations confidently and take up events you always wanted without limitations of your body. We will make sure your diet is balanced."
+  },
+  {
+    "id": "4",
+    "name": "Yoga",
+    "price": "150",
+    "image": "https://i.ibb.co/zms4FP0/service-4-yoga.png",
+    "description": "We know that a peaceful mind is the solution of a peaceful body. Our yoga can bring your inner peace. Our professionals will ensure you to achieve your goals. "
+  },
+  {
+    "id": "5",
+    "name": "Muscle-Build",
+    "price": "300",
+    "image": "https://i.ibb.co/kScFM0R/muscle-buld.png",
+    "description": "The ultimate goal is for you to build a healthier muscle. In our gym we have modern equipment and proper support. So that you can achieve your desired results. "
+  },
+  {
+    "id": "6",
+    "name": "TRAIN YOUR OWN",
+    "price": "100",
+    "image": "https://i.ibb.co/YLHjFL4/service-3.png",
+    "description": "We have a place for your own gym. We have all the necessary equipments ready for you. So that you can just come and train by yourself.Your fitness aim will not be compromised and you can achieve your goal in your own time. "
+  }
+]
